@@ -1,8 +1,29 @@
 .place__image {
-       transform: translate(-16px);
+    width: 100%;
+    min-height: 460px;
+    object-fit: cover;
+
+}
+
+@media screen and (max-width: 1279px) {
+    .place__image {
+        min-height: 440px;
+    }
+}
+
+@media screen and (max-width: 1023px) {
+    .place__image {
+        min-height: 340px;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .place__image {
+        transform: translate(-16px);
         top: 32px;
         min-width: 320px;
         min-height: 320px;
         object-fit: cover;
 
     }
+}

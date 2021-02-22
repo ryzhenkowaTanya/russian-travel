@@ -1,4 +1,21 @@
 .lead-polka__photo {
+    display: block;
+    vertical-align: top;
+    margin-top: 64px;
+    margin-right: 0;
+    width: 100%;
+}
+
+@media screen and (max-width: 1279px) {
+    .lead-polka__photo {
+        margin-top: 56px;
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .lead-polka__photo {
         margin-top: 40px;
         width: 100%;
     }
+}
