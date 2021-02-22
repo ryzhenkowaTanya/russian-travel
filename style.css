@@ -504,7 +504,7 @@
 }
 
 .cover__item {
-    background-image: url("blocks/cover/__background/cover-trains.jpg");
+    background-image: url("blocks/cover/__item/cover-trains.jpg");
     object-fit: cover;
     background-size: cover;
     width: calc(100% - 96px);

@@ -1,5 +1,5 @@
 .cover__item {
-    background-image: url("../__background/cover-trains.jpg");
+    background-image: url("cover-trains.jpg");
     object-fit: cover;
     background-size: cover;
     width: calc(100% - 96px);
