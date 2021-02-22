@@ -1,0 +1,6 @@
+.cover__item {
+        width: 100%;
+        min-height: 480px;
+    }   background-size: cover;
+        object-fit: fill;
+    }

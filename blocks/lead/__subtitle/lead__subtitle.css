@@ -1,0 +1,10 @@
+.lead__subtitle {
+        width: calc(100% - 16px*2);
+        font-size: 16px;
+        margin-top: 16px;
+        text-align: left;
+
+    }r;
+    margin: 32px auto 0;
+    vertical-align: text-top;
+}

@@ -1,0 +1,9 @@
+.place {
+        width: calc(100% - 32px);
+        display: flex;
+        flex-direction: column;
+        padding-right: 16px;
+        padding-left: 16px;
+        min-width: 288px;
+        margin-top: 64px;
+    }

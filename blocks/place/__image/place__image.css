@@ -1,0 +1,8 @@
+.place__image {
+       transform: translate(-16px);
+        top: 32px;
+        min-width: 320px;
+        min-height: 320px;
+        object-fit: cover;
+
+    }

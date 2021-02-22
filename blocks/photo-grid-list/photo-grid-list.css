@@ -1,0 +1,7 @@
+.photo-grid-list {
+        min-width: 288px;
+        min-height: 216px;
+        grid-template-columns: repeat(1, 1fr);
+        grid-gap: 12px;
+    margin-top: 64px;
+    }

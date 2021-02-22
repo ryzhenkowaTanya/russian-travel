@@ -1,0 +1,10 @@
+.header {
+        width: calc(100% - 24px*2);
+    }   padding-top: 16px;
+    }ms: flex-end;
+    width: calc(100% - 48px*2);
+    margin-right: auto;
+    margin-left: auto;
+    padding-top: 28px;
+    border: red 1px solid;
+}

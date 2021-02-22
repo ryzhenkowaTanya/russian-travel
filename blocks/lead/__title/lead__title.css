@@ -1,0 +1,5 @@
+.lead__title {
+        width: calc(100% - 24px*2);
+    }   min-height: 88px;
+        font-size: 40px;
+    }
