@@ -2,10 +2,11 @@
     display: flex;
     justify-content: space-between;
     align-items: flex-end;
-    width: calc(100% - 48px*2);
+    width: 92.5%;
     margin-right: auto;
     margin-left: auto;
     padding-top: 28px;
+    grid-area: header;
 }
 
 @media screen and (max-width: 1023px) {

@@ -2,16 +2,31 @@
     font-size: 72px;
     font-weight: 900;
     line-height: 1.5;
-    color: white;
-    max-width: 562px;
+    color: #ffffff;
+    width: 47%;
     text-align: center;
     margin-top: 0;
     margin-bottom: 0;
 }
 
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 1279px) {
     .cover__title {
-        font-size: 32px;
-        margin-top: 33px;
+        width: 55%;
     }
 }
+
+@media screen and (max-width: 1023px) {
+    .cover__title {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width: 767px) {
+    .cover__title {
+        line-height: 1;
+        font-size: 32px;
+        width: 90%;
+        border: red 1px solid;
+    }
+}
+

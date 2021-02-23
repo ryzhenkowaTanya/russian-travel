@@ -1,29 +1,27 @@
 .lead__title {
-    width: calc(100% - 132px * 2);
+    width: 73%;
     font-size: 96px;
     font-weight: 900;
     line-height: 1;
     text-align: center;
     margin: auto;
-    min-height: 200px;
 }
 
 @media screen and (max-width: 1279px) {
     .lead__title {
-        width: calc(100% - 152px*2);
+        width: 70%;
     }
 }
 
 @media screen and (max-width: 1023px) {
     .lead__title {
-        width: calc(100% - 24px*2);
+        width: 90%;
     }
 }
 
 @media screen and (max-width: 767px) {
     .lead__title {
-        width: calc(100% - 16px*2);
-        min-height: 88px;
+        width: 90%;
         font-size: 40px;
     }
 }

@@ -2,15 +2,27 @@
     font-weight: 400;
     font-size: 30px;
     line-height: 1.25;
-    width: calc(100% - 172px*2);
+    width: 50%;
     text-align: center;
     margin: 32px auto 0;
     vertical-align: text-top;
 }
 
+@media screen and (max-width: 1279px) {
+    .lead__subtitle {
+        width: 62%;
+    }
+}
+
+@media screen and (max-width: 1024px) {
+    .lead__subtitle {
+        width: 83%;
+    }
+}
+
 @media screen and (max-width: 767px) {
     .lead__subtitle {
-        width: calc(100% - 16px*2);
+        width: 90%;
         font-size: 16px;
         margin-top: 16px;
         text-align: center;

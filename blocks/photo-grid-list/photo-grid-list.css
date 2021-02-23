@@ -1,8 +1,8 @@
 .photo-grid-list {
-    padding-left: 3.75%;
-    padding-right: 3.75%;
+    padding-left: 3%;
+    padding-right: 3%;
     box-sizing: border-box;
-    margin-top: 92px;
+   padding-top: 92px;
     margin-bottom: 0;
     list-style-type: none;
     display: grid;
@@ -35,6 +35,6 @@
         min-height: 216px;
         grid-template-columns: repeat(1, 1fr);
         grid-gap: 12px;
-        margin-top: 64px;
+        padding-top: 64px;
     }
 }

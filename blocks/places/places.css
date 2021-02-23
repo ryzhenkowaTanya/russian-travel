@@ -1,21 +1,19 @@
-.cover {
+.places{
+    display: grid;
+    grid-gap: 80px;
     padding-top: 92px;
-    /*width: 92%;*/
-    margin: auto;
 }
 
 @media screen and (max-width: 1023px) {
-    .cover{
+    .places {
+        grid-gap: 72px;
         padding-top: 88px;
-        width: 100%;
-
     }
 }
 
 @media screen and (max-width: 767px) {
-    .cover {
-        width: 100%;
+    .places {
+        grid-gap: 50px;
         padding-top: 64px;
-
     }
 }

@@ -1,8 +1,8 @@
 .cover__item {
     background-image: url("cover-trains.jpg");
+    width: 92%;
     object-fit: cover;
     background-size: cover;
-    width: calc(100% - 96px);
     min-height: 740px;
     display: flex;
     flex-direction: column;
@@ -11,6 +11,8 @@
     margin: auto;
     position: relative;
     z-index: 1;
+    background-position: center;
+
 }
 
 .cover__item:before{
@@ -28,7 +30,6 @@
 
 .cover__item:hover:before{
     opacity: 0.8;
-
 }
 
 
@@ -43,6 +44,7 @@
     .cover__item {
         width: 100%;
         min-height: 480px;
+
     }
 }
 
@@ -51,6 +53,7 @@
         width: 100%;
         min-height: 200px;
         background-size: cover;
-        object-fit: fill;
+        object-fit: cover;
+
     }
 }

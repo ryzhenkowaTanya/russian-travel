@@ -5,3 +5,10 @@
     margin-top: 0;
     margin-bottom: 12px;
 }
+
+@media screen and (max-width: 767px) {
+    .place__url-heading{
+        padding-left: 16px;
+        right: 16px;
+    }
+}
