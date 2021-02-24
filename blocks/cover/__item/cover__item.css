@@ -1,6 +1,6 @@
 .cover__item {
     background-image: url("../../../images/cover-trains.jpg");
-    width: calc(100% - 48px*2);
+    width: calc(100% - 48px * 2);
     background-size: cover;
     min-height: 740px;
     display: flex;
@@ -13,7 +13,7 @@
     background-position: center;
 }
 
-.cover__item:before{
+.cover__item:before {
     content: "";
     background: #2A2C2F;
     opacity: 0.3;
@@ -26,7 +26,7 @@
     transition: 0.3s ease-in-out;
 }
 
-.cover__item:hover:before{
+.cover__item:hover:before {
     opacity: 0.8;
 }
 
