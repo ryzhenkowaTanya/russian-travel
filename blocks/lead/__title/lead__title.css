@@ -2,10 +2,10 @@
     width: 73%;
     font-size: 96px;
     font-weight: 900;
-    Line-height: 104%;
+    line-height: 104%;
     text-align: center;
     margin: auto;
-    Vertical-align: Top;
+    vertical-align: top;
 }
 
 @media screen and (max-width: 1279px) {
@@ -22,8 +22,7 @@
 
 @media screen and (max-width: 767px) {
     .lead__title {
-        /*width: 90%;*/
         font-size: 40px;
-        Line-height: 110%;
+        line-height: 110%;
     }
 }
