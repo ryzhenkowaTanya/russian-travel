@@ -5,4 +5,4 @@
 Используемые технологии:
 HTML5, CSS3
 
-[https://github.com/ryzhenkowaTanya/russian-travel.git]
+[https://ryzhenkowatanya.github.io/russian-travel/index.html]
