@@ -6,9 +6,6 @@
     line-height: 1;
 }
 
-.header__lang-link:hover{
-    text-decoration: underline #ffffff;
-}
 
 @media screen and (max-width: 767px) {
     .header__lang-link {

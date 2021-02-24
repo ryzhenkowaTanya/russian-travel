@@ -1,4 +1,4 @@
-.lead-polka__quote {
+.lead-figure__quote {
     margin-bottom: 0;
     margin-top: 8px;
     font-weight: 400;
@@ -9,14 +9,14 @@
 }
 
 @media screen and (max-width: 1023px) {
-    .lead-polka__quote {
+    .lead-figure__quote {
         margin-left: 24px;
         margin-right: 24px;
     }
 }
 
 @media screen and (max-width: 767px) {
-    .lead-polka__quote {
+    .lead-figure__quote {
         margin-right: 16px;
         margin-left: 16px;
     }

@@ -4,11 +4,7 @@
 
 @media screen and (max-width: 767px) {
     .place__website {
-        /*display: flex;*/
-        /*flex-direction: column;*/
-        /*align-self: start;*/
-        /*right: 16px;*/
-        /*top: 32px;*/
-        /*flex-wrap: wrap;*/
+        margin-left: 5%;
+        margin-right: 5%;
     }
 }

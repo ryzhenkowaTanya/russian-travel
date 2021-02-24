@@ -1,10 +1,11 @@
 .cover__title {
     font-size: 72px;
     font-weight: 900;
-    line-height: 1.5;
+    Line-height: 106%;
     color: #ffffff;
     width: 47%;
     text-align: center;
+    vertical-align: top;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -23,10 +24,9 @@
 
 @media screen and (max-width: 767px) {
     .cover__title {
-        line-height: 1;
+        line-height: 109%;
         font-size: 32px;
         width: 90%;
-        border: red 1px solid;
     }
 }
 
