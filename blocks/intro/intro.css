@@ -3,12 +3,12 @@
     display: flex;
     flex-direction: column;
     max-width: 690px;
-    margin-left: 11.5625%;
+    margin-left: 148px;
 }
 
 @media screen and (max-width: 1279px) {
     .intro {
-        width: calc(100% - 286px);
+        margin-left: 48px;
     }
 }
 
