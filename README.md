@@ -4,10 +4,10 @@
 Основнаяя задача в этом проекте, сделать сайт адаптативным и научиться работать с макетом в Figma.
 
 Используемые технологии:
-+  - HTML5 
-+  - CSS3  
- +  - Grid Layout
- +  - Flexbox  
-+  - Методология БЭМ
++ - HTML5 
++ - CSS3  
++ - Grid Layout
++ - Flexbox  
++ - Методология БЭМ
 
 [https://ryzhenkowatanya.github.io/russian-travel/index.html]
