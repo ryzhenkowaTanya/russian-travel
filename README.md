@@ -5,9 +5,9 @@
 
 Используемые технологии:
 + - HTML5 
-+ - CSS3  
-+ - Grid Layout
-+ - Flexbox  
-+ - Методология БЭМ
++ - CSS3 
++ - Grid Layout 
++ - Flexbox 
++ - Методология БЭМ 
 
 [https://ryzhenkowatanya.github.io/russian-travel/index.html]
