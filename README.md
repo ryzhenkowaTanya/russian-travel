@@ -9,5 +9,5 @@
 + - Grid Layout 
 + - Flexbox 
 + - Методология БЭМ 
-
+ 
 [https://ryzhenkowatanya.github.io/russian-travel/index.html]
